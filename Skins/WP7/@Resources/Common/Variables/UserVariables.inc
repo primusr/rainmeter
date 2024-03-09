@@ -33,7 +33,11 @@ RainmeterPath=#PROGRAMPATH#
 CentralizedWidth=570
 DisplaceX=397
 DisplaceY=92
+<<<<<<< HEAD
 ScaleDpi=1
+=======
+ScaleDpi=2
+>>>>>>> 3a86a2d805c14fa80d71775ccc91dab87773a552
 DarkMode=1
 Metric=1
 PanelLabels=1

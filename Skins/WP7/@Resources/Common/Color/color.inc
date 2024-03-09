@@ -1,22 +1,36 @@
 # PANEL METRICS
 
 [Variables]
+<<<<<<< HEAD
 Imagedir=C:\Users\primu\OneDrive\Documents\Rainmeter\Skins\WP7\@Resources\Common\Panel\Blank
+=======
+Imagedir=C:\Users\PC\Documents\Rainmeter\Skins\WP7\@Resources\Common\Panel\Blank
+>>>>>>> 3a86a2d805c14fa80d71775ccc91dab87773a552
 Overlay=none
 
 Globalblurenable=0
 Blurtype=1
 Blurcornerradius=0
+<<<<<<< HEAD
 Padding=5
 Win10Blur=none
 ColorSkin=30,30,30
+=======
+Padding=0
+Win10Blur=none
+ColorSkin=40,40,40
+>>>>>>> 3a86a2d805c14fa80d71775ccc91dab87773a552
 ColorSkin2=60,60,60
 
 Opacity=240
 Opacity2=240
 
 TextColor=255,255,255
+<<<<<<< HEAD
 TextColor2=255,255,255
+=======
+TextColor2=240,240,240
+>>>>>>> 3a86a2d805c14fa80d71775ccc91dab87773a552
 
 
 PanelTitleOpacity=255

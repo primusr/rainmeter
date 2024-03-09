@@ -1,6 +1,6 @@
 [Variables]
-Name1=web
-Action1=http://google.com
+Name1=gitchecker
+Action1=ms-powerautomate:/console/flow/run?environmentid=Default-a515e7c4-8cf7-4f97-b23b-96491645f7f0&workflowid=6834c7cc-9fd5-494a-947a-79e6c6a2a99d&source=Other
 Name2=social
 Action2=http://facebook.com
 Name3=videos
@@ -20,4 +20,4 @@ FontFace=#FontFaceLight#
 spacing=20
 FontSize=23
 fontcolor=255,255,255,255
-Zoom=1
+Zoom=1.15
